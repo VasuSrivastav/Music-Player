@@ -6,7 +6,7 @@ var arr = [
   {
     songName: "Die For You",
     url: "./assets/sound/The Weeknd - Die For You.mp3",
-    img: "./assets/images/die-4-u.jpg",
+    img: "./assets/images/Die-For-You.jpg",
     time: "3:52",
   },
   {
